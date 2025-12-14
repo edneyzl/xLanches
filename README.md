@@ -225,15 +225,14 @@ O projeto utiliza uma paleta de cores laranja vibrante:
 
 ### Página Inicial
 
-![Home](./src/screenshots/home.png)
+![Home](./frontend/src/screenshots/home.png)
 
 ### Tela de Login
 
-![Login](./src/screenshots/login.png)
-
+![Login](./frontend/src/screenshots/login.png)
 ### CRUD de Produtos (Admin)
 
-![Products](./src/screenshots/products.png)
+![Products](./frontend/src/screenshots/products.png)
 
 ---
 
