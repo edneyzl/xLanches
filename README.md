@@ -293,11 +293,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Edney Fagundes**
 
-- GitHub: [@seu-usuario](https://github.com/edneyzl)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/edney-fagundes)
-- Email: seu-email@example.com
+- GitHub: https://github.com/edneyzl
+- LinkedIn: https://linkedin.com/in/edney-fagundes
+- Email: edney.nextel2007@gmail.com
 
 ---
 
