@@ -256,6 +256,10 @@ section {
     }
 }
 
+.cardapio-cor {
+    background-color: var(--primary-color);
+}
+
 /* ===============================
    ABOUT
 ================================ */
@@ -396,3 +400,4 @@ section {
     border: 1px solid white;
     color: white;
 }
+
