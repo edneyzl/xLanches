@@ -77,10 +77,10 @@ xLanches/
     ├── src/
     │   ├── components/
     │   │   ├── Header.jsx
-    │   │   ├──Section.jsx
-    │   │   ├──Cardapio.jsx
-    │   │   ├──About.jsx
-    │   │   ├──CTA.jsx
+    │   │   ├── Section.jsx
+    │   │   ├── Cardapio.jsx
+    │   │   ├── About.jsx
+    │   │   ├── CTA.jsx
     │   │   └── Footer.jsx
     │   ├── pages/
     │   │   ├── Home.jsx
